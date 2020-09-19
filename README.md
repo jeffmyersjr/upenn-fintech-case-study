@@ -1,5 +1,5 @@
 # upenn-fintech-case-study
-##Robinhood Case Study
+##Robinhood Case TESTTEST
 
 1a) Robinhood is an online stock trading firm that offers unlimited commission free trades. Competitors: Etrade, Fidelity, Schwab
 1b) Uses technology with an easy to use mobile app - targeting millenials. Considered Fintech because they have an innovative mobile app that contrasts other normal PC competitors.
