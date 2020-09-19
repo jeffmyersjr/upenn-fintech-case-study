@@ -1,5 +1,5 @@
 # upenn-fintech-case-study
-##Robinhood Case 
+## Robinhood Case 
 
 ![image 1](https://cdn.slashgear.com/wp-content/uploads/2020/03/robinhood_logo_main-1280x720-1.jpg)
 
